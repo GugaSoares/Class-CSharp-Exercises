@@ -1,0 +1,13 @@
+C:\temp\ws-vs2019\Product Management Example\Product Management Example\bin\Debug\netcoreapp3.1\Product Management Example.exe
+C:\temp\ws-vs2019\Product Management Example\Product Management Example\bin\Debug\netcoreapp3.1\Product Management Example.deps.json
+C:\temp\ws-vs2019\Product Management Example\Product Management Example\bin\Debug\netcoreapp3.1\Product Management Example.runtimeconfig.json
+C:\temp\ws-vs2019\Product Management Example\Product Management Example\bin\Debug\netcoreapp3.1\Product Management Example.runtimeconfig.dev.json
+C:\temp\ws-vs2019\Product Management Example\Product Management Example\bin\Debug\netcoreapp3.1\Product Management Example.dll
+C:\temp\ws-vs2019\Product Management Example\Product Management Example\bin\Debug\netcoreapp3.1\Product Management Example.pdb
+C:\temp\ws-vs2019\Product Management Example\Product Management Example\obj\Debug\netcoreapp3.1\Product Management Example.AssemblyInfoInputs.cache
+C:\temp\ws-vs2019\Product Management Example\Product Management Example\obj\Debug\netcoreapp3.1\Product Management Example.AssemblyInfo.cs
+C:\temp\ws-vs2019\Product Management Example\Product Management Example\obj\Debug\netcoreapp3.1\Product Management Example.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\Product Management Example\Product Management Example\obj\Debug\netcoreapp3.1\Product Management Example.dll
+C:\temp\ws-vs2019\Product Management Example\Product Management Example\obj\Debug\netcoreapp3.1\Product Management Example.pdb
+C:\temp\ws-vs2019\Product Management Example\Product Management Example\obj\Debug\netcoreapp3.1\Product Management Example.genruntimeconfig.cache
+C:\temp\ws-vs2019\Product Management Example\Product Management Example\obj\Debug\netcoreapp3.1\Product Management Example.csprojAssemblyReference.cache
